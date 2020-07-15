@@ -9,16 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
    
     <title>Project</title>
-   <style type="text/css">
-body {
-  background: url("Image/BG1.png") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-</style>
-  
+
 </head>
 
 <body>
@@ -27,7 +18,7 @@ body {
 <nav class="navbar navbar-dark bg-dark" class="shadow-none p- mb-5 bg-light rounded">
   <a class="navbar-brand">
     <img src="Image/rad.png" width="50" height="30"> 
-    PP’ Web Application Screening for General Risk of Depression Using Techniques Data Mining
+    PP’ 
   </a>
 </nav>
 
