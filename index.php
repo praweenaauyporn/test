@@ -18,7 +18,7 @@
 <nav class="navbar navbar-dark bg-dark" class="shadow-none p- mb-5 bg-light rounded">
   <a class="navbar-brand">
     <img src="Image/rad.png" width="50" height="30"> 
-    PP’ Web Application Screening for General Risk of Depression Using Techniques Data Mining
+    PP’ 
   </a>
 </nav>
 
