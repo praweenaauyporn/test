@@ -22,8 +22,8 @@
   </a>
 </nav>
 
-<center><button type="button" class="btn btn-primary" style="position:relative; top:320px;"> พยากรณ์อาการ <img src="https://img.icons8.com/ios-glyphs/30/000000/person-male.png"/></button>
-  <button type="button" class="btn btn-info" style="position:relative; top:320px;">สาระความรู้ภาวะซึมเศร้า<img src="https://img.icons8.com/ios-filled/30/000000/detective.png"/></button></center>
+<button type="button" class="btn btn-primary" style="position:relative; top:320px;"> พยากรณ์อาการ <img src="https://img.icons8.com/ios-glyphs/30/000000/person-male.png"/></button>
+  <button type="button" class="btn btn-info" style="position:relative; top:320px;">สาระความรู้ภาวะซึมเศร้า<img src="https://img.icons8.com/ios-filled/30/000000/detective.png"/></button>
 
   <div></div>
   
